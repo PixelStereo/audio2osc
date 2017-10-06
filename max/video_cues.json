@@ -1,0 +1,13084 @@
+{
+	"1" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"2" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/synth/led_line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 75.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/kick/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/led/line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+				"/snare/led_line" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 9.574803,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/led_line" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/led/line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.062992,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"3" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"kick/snake" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snake/turn" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"snake/size" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 0.448819,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/pixel/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 8.0
+			}
+,
+			"unique" : 1,
+			"coef" : 5.0,
+			"active" : 0,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 5.0
+			}
+,
+			"unique" : 1,
+			"coef" : 5.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 4.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+				"synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"4" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"sonar/size" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"sonar/speed" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/bass/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/build" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/synth/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"5" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/douche/drums/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick/snake" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snake/turn" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/douche/bass/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/douche/guit.1/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/douche/guit.2/opacity" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/douche/synth/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"6" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/kick/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 21.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/grid" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"10" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"pixel/move" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 0.448819,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/pixel/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 8.0
+			}
+,
+			"unique" : 1,
+			"coef" : 5.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 5.0
+			}
+,
+			"unique" : 1,
+			"coef" : 5.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 4.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+				"synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"12" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/kick/line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/white/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/snake" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/rotate/bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/douche/drums/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+				"/snare/line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snake/slide/down" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/douche/bass/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/douche/synth/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snake/slide/down" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/douche/guit.1/opacity" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/douche/guit.2/opacity" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/douche/synth/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"43" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/noise/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 20.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+				"/noise/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"tom" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 20.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/noise/scale" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/noise/turn" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"90" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/douche/drums/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick/snake" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snake/turn" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/douche/bass/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/douche/guit.1/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/douche/guit.2/opacity" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/douche/synth/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"22" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/douche/drums/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick/snake" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snake/turn" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/douche/bass/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/douche/guit.1/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/douche/guit.2/opacity" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/douche/synth/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"18" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/douche/drums/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick/snake" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snake/turn" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/douche/bass/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/douche/guit.1/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/douche/guit.2/opacity" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.1,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/douche/synth/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"19" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/white/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/douche/drums/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 127.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/douche/guit.1/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/douche/guit.2/opacity" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 6.299213,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"32" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/guit.1/grid" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/colors/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 55.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 21.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+				"/snare/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/grid" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"7" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"synth-pitch/matrix" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"kick/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snare/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 0.1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"11" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/pixel/move" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+				"/totom" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 1.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+				"/claap" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 0.448819,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/pixel/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 5.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/frame/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 5.0
+			}
+,
+			"unique" : 1,
+			"coef" : 5.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 4.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+				"synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"15" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"kick/snake" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/drums" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snake/turn" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/snake/slide/down" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/douche/guit.1/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snake/slide/down" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/douche/guit.2/opacity" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.1,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/douche/synth/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"20" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 75.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+				"/synth/led_line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/kick/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/led/line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snare/line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+				"/snare/led_line" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snare/line" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 9.574803,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/led_line" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/led_line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.062992,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/synth/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"30" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 75.0
+			}
+,
+			"unique" : 1,
+			"coef" : 0.0,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 0.0,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/random/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/random-floor/opacity" : 				{
+					"min" : 1,
+					"max" : 0,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 1,
+					"max" : 0,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 34.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/random/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 15.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+				"/random/opacity" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+				"/random/opacity" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"tom" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 10.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 0.0,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 0.0,
+			"active" : 0,
+			"pow" : 9.574803,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 0.0,
+			"active" : 0,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 0.0,
+			"active" : 0,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 0.0,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 0.0,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"31" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/guit.1/grid" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/colors/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/random/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/random-floor/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 21.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/random/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 21.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+				"/snare/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/grid" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"40" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"synth-pitch/matrix" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/cube/x" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 16.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+				"/cube/expand" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+				"/clap" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/bass/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 0.1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.1/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.2/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/synth/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"41" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/douche/synth/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/synth-pitch/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"coef" : 5.0,
+			"active" : 1,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/douche/drums/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/douche/bass/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/bass/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/douche/guit.1/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.1/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/douche/guit.2/opacity" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.2/matrix" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 5.677165,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/par/synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"42" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 5.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/noise/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 60.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/lines/speed" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/noise/turn" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 66.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/lines/scale" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"255" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/synth/matrix" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 75.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/kick/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/highway/speed" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 12.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 9.574803,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/matrix" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/matrix" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.062992,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"16" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"kick/snake" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snake-ter/blur" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snake/turn" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/snale/slide/down" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 0.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/snake/slide/down" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/snake/blur" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/snake-bis/blur" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"21" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/synth/led_line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/synth/build" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 75.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+				"/synth/led_line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/synth/build" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/kick/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/led/line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snare/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+				"/snare/led_line" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snare/build" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/bass/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/bass/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 9.574803,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/led_line" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.1/matrix" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.1/build" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/led_line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.2/matrix" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.2/build" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.062992,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/synth/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/synth/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"47" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/synth/led_line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 75.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/kick/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/led/line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+				"/snare/led_line" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 9.574803,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/led_line" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/led/line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.062992,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"13" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"kick/snake" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snake/turn" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"snake/size" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 0.448819,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 8.0
+			}
+,
+			"unique" : 1,
+			"coef" : 5.0,
+			"active" : 0,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 5.0
+			}
+,
+			"unique" : 1,
+			"coef" : 5.0,
+			"active" : 0,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 4.0,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"120" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/pixel/move" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/square/size" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 7.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 6.881887,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/pixel/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 8.0
+			}
+,
+			"unique" : 1,
+			"coef" : 5.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/frame/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/square/stroke" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 5.0
+			}
+,
+			"unique" : 1,
+			"coef" : 5.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 4.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+				"synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"17" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/douche/drums/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick/snake" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/drums" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snake/turn" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/snale/slide/down" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/douche/bass/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/douche/guit.1/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snake/slide/down" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/guit.1" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/douche/guit.2/opacity" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.1,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/douche/synth/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"85" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/synth/matrix" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 75.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/kick/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/highway/speed" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 12.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 9.574803,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/matrix" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/highway/pixelate" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.1" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/matrix" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.062992,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"65" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/guit.1/grid" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/colors/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/random/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/random-floor/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 21.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/random/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 21.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+				"/snare/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/grid" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"33" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"sonar/size" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"sonar/speed" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 0,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 0,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"66" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/guit.1/grid" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/colors/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/random/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/random-floor/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/build/change" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 21.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/random/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/build/change" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 21.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 4
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+				"/snare/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/bass/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/grid" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.1/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/grid" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.2/build" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/synth/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"44" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/synth/matrix" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 75.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/kick/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/highway/speed" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/noiseline/width" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 12.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 9.574803,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/matrix" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/highway/pixelate" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/noiseline/repeat" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/matrix" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.062992,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"48" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/pixelend/opacity" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 127.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"45" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/synth/matrix" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/synth/led_line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 75.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/kick/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/noiseline/width" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 12.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snare/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/bass/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 9.574803,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/matrix" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.1/led_line" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/noiseline/repeat" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/matrix" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.2/led_line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.062992,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"111" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/noiseline/width" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/highway/speed" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+				"tom" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+				"clap" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/noiseline/repeat" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/highway/pixelate" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 0,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"240" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"synth-pitch/matrix" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/cube/expand" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 13.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snare/cube/z" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 2
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+				"/cube/expand" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/bass/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/clap" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 0.1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.1/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 2.141732,
+			"active" : 1,
+			"pow" : 6.456693,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.2/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.401575,
+			"active" : 1,
+			"pow" : 5.677165,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/synth/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"86" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/synth/matrix" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 75.0
+			}
+,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/kick/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/highway/speed" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 12.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 9.574803,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/matrix" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/highway/pixelate" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.1" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/millumin/layer:wall/effect1/color_magnitude" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/matrix" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.2" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/millumin/layer:floor/effect1/color_magnitude" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"coef" : 1.062992,
+			"active" : 1,
+			"pow" : 10.0,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 11.0
+			}
+,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"unique" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+,
+	"210" : 	{
+		"video" : 		{
+			"recall" : 			{
+				"duration" : 0
+			}
+,
+			"unique" : 1
+		}
+,
+		"synth-pitch" : 		{
+			"map" : 			{
+				"/synth/led_line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/synth/build" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 75.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2-pitch" : 		{
+			"map" : 			{
+				"/synth/led_line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/synth/build" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"kick" : 		{
+			"map" : 			{
+				"/kick/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/kick/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"kick" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/drums" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare" : 		{
+			"map" : 			{
+				"/snare/led/line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snare/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"snare2" : 		{
+			"map" : 			{
+				"/snare/led_line" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/snare/build" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"snare" : 				{
+					"min" : 0,
+					"max" : 255,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"tom" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 0,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"clap" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"bass" : 		{
+			"map" : 			{
+				"/bass/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/bass/matrix" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/bass/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/bass" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 1.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 9.574803,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.1" : 		{
+			"map" : 			{
+				"/guit.1/led_line" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.1/matrix" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.1/build" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.1" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/guit.1" : 				{
+					"min" : 0,
+					"max" : 4,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 2.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.0,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"guit.2" : 		{
+			"map" : 			{
+				"/guit.2/led_line" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.2/matrix" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/guit.2/build" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/guit.2" : 				{
+					"min" : 0,
+					"max" : 2,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 4.0
+			}
+,
+			"unique" : 1,
+			"coef" : 1.062992,
+			"active" : 1,
+			"pow" : 10.0,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth" : 		{
+			"map" : 			{
+				"/synth/led_line" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/synth/build" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+,
+				"/par/synth" : 				{
+					"min" : 0,
+					"max" : 1,
+					"sustain" : 0.2,
+					"delay" : 0
+				}
+
+			}
+,
+			"slide" : 			{
+				"off" : 0.0
+			}
+,
+			"unique" : 1,
+			"coef" : 3.0,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+,
+		"synth2" : 		{
+			"map" : 			{
+
+			}
+,
+			"slide" : 			{
+				"off" : 1
+			}
+,
+			"unique" : 1,
+			"coef" : 1,
+			"active" : 1,
+			"pow" : 1,
+			"sustain" : 150,
+			"delay" : 0,
+			"filter" : 1
+		}
+
+	}
+
+}
